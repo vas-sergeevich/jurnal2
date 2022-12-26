@@ -1,0 +1,59 @@
+﻿.avatar img {
+    height: 77px;
+    width: 77px;
+}
+
+.info {
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+.info .userName {
+    font-family: 'Comfortaa', cursive;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.writeSend input { height: 50px; }
+
+
+#loading { text-align: center; }
+
+.writeSend { padding: 0 10px 0 0; }
+
+.wall .post {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.content .btn-group { padding-bottom: 20px; }
+
+.list-group-item { word-wrap: break-word; }
+
+.post .badge {
+    font-size: 10px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+/*Extra small devices (portrait phones, less than 576px)
+Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) {
+}
+
+/*Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) {
+}
+
+/*Large devices (desktops, 992px and up)*/
+
+@media (min-width: 992px) {
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1200px) {
+}

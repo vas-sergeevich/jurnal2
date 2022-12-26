@@ -1,0 +1,11 @@
+﻿.about {
+    height: 30vh;
+    
+    margin-top: 100px;
+    text-align: center;
+    width: 100%;
+}
+.contacts img {
+    width: 48px;
+    height: 48px;
+}

@@ -1,0 +1,9 @@
+﻿.find-user .avatar {
+    height: 248px;
+    width: 100%;
+}
+
+.find-user {
+    margin: 20px 10px 10px 0;
+    max-width: 280px;
+}

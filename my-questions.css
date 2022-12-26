@@ -1,0 +1,12 @@
+﻿.unanswered-question { margin: 20px 0 0 0; }
+
+.list-group-item { word-wrap: break-word; }
+
+
+.delete {
+    bottom: 5px;
+    position: absolute;
+    right: 5px;
+}
+
+.unanswered-question.alert.alert-warning { text-align: center; }
